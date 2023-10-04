@@ -1,0 +1,14 @@
+C:\Users\filip.scherlund\Desktop\Test visual\Slagsmål V2\SlagV2\bin\Debug\net7.0\SlagV2.exe
+C:\Users\filip.scherlund\Desktop\Test visual\Slagsmål V2\SlagV2\bin\Debug\net7.0\SlagV2.deps.json
+C:\Users\filip.scherlund\Desktop\Test visual\Slagsmål V2\SlagV2\bin\Debug\net7.0\SlagV2.runtimeconfig.json
+C:\Users\filip.scherlund\Desktop\Test visual\Slagsmål V2\SlagV2\bin\Debug\net7.0\SlagV2.dll
+C:\Users\filip.scherlund\Desktop\Test visual\Slagsmål V2\SlagV2\bin\Debug\net7.0\SlagV2.pdb
+C:\Users\filip.scherlund\Desktop\Test visual\Slagsmål V2\SlagV2\obj\Debug\net7.0\SlagV2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\filip.scherlund\Desktop\Test visual\Slagsmål V2\SlagV2\obj\Debug\net7.0\SlagV2.AssemblyInfoInputs.cache
+C:\Users\filip.scherlund\Desktop\Test visual\Slagsmål V2\SlagV2\obj\Debug\net7.0\SlagV2.AssemblyInfo.cs
+C:\Users\filip.scherlund\Desktop\Test visual\Slagsmål V2\SlagV2\obj\Debug\net7.0\SlagV2.csproj.CoreCompileInputs.cache
+C:\Users\filip.scherlund\Desktop\Test visual\Slagsmål V2\SlagV2\obj\Debug\net7.0\SlagV2.dll
+C:\Users\filip.scherlund\Desktop\Test visual\Slagsmål V2\SlagV2\obj\Debug\net7.0\refint\SlagV2.dll
+C:\Users\filip.scherlund\Desktop\Test visual\Slagsmål V2\SlagV2\obj\Debug\net7.0\SlagV2.pdb
+C:\Users\filip.scherlund\Desktop\Test visual\Slagsmål V2\SlagV2\obj\Debug\net7.0\SlagV2.genruntimeconfig.cache
+C:\Users\filip.scherlund\Desktop\Test visual\Slagsmål V2\SlagV2\obj\Debug\net7.0\ref\SlagV2.dll
