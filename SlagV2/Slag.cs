@@ -51,16 +51,16 @@ class Program
         string fighterBName = fighterBNames[random.Next(fighterBNames.Length)];
 
         Console.WriteLine("The One!");
-        Thread.Sleep(1);
+        Thread.Sleep(1000);
         Console.WriteLine("The Only!");
-        Thread.Sleep(1);
+        Thread.Sleep(1000);
         Console.WriteLine(fighterAName);
         Console.WriteLine(@"(9o_o)9");
 
         Console.WriteLine();
 
         Console.WriteLine("Now From The Other Side We Have..");
-        Thread.Sleep(1);
+        Thread.Sleep(1000);
         Console.WriteLine();
 
         int fighterAHp = 100; // Hit points för slagskämpe A
@@ -71,7 +71,7 @@ class Program
         int round = 1;
 
         Console.WriteLine("A Famouse Boxer Called!");
-
+        Thread.Sleep(1000);
         Console.WriteLine(fighterB.Name);
 
         Console.WriteLine(@"(ง⌐■_■)ง");
